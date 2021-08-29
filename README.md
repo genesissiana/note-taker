@@ -4,7 +4,7 @@
 A simple application that is able to create and delete notes. 
 
 ## Demo 
-![Note Taker] (public/assets/images/note-taker.gif)
+![Note Taker](public/assets/images/note-taker.gif)
 
 ## Application 
 
