@@ -3,6 +3,9 @@
 ## Description 
 A simple application that is able to create and delete notes. 
 
+## Demo 
+![Note Taker](public/assets/images/NoteTaker.gif)
+
 ## Application 
 
 Live app: https://secure-lowlands-95600.herokuapp.com/notes
